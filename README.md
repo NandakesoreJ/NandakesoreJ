@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Nandakesore 👋</h1>
 
 <p align="center">
-  <em>"As long as I try there are infinite chances"</em>
+  <em><strong><span style="color:#ff6600; font-family:Georgia, serif;">"As long as I try there are infinite chances"</span></strong></em>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/luffy-one-piece.gif" width="300"/>
 </p>
 
 ---
@@ -38,6 +42,16 @@
 - 🌱 Leveling up my **Blender** 3D design skills  
 - ✨ Exploring **Python projects** and CAD automation  
 - 🧠 Improving my sketching workflow into digital design  
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="left">
+  <a href="https://leetcode.com/u/Nandakesore_Jaisankar/">
+    <img src="https://leetcard.jacoblin.cool/Nandakesore_Jaisankar?theme=dark&font=JetBrains%20Mono&ext=activity"/>
+  </a>
+</p>
 
 ---
 
