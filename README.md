@@ -56,21 +56,10 @@
 
 ## 🔄 Random Quote of the Day
 
-> <!--QUOTE_PLACEHOLDER-->
-
----
-
-## 🎧 Now Playing
-
-<p align="left">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xjz47me3acexsoaidc5agushkm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="100%">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/nandakesore/nandakesore/blob/output/github-contribution-grid-snake.svg)
+> “If you don’t take risks, you can’t create a future.” — Monkey D. Luffy  
+> “What keeps me alive in this world is neither bodily organs nor muscles — it’s my soul.” – Brook  
+> “Fools who don’t respect the past are likely to repeat it.” – Nico Robin  
+> “Only I Can Call My Dream Stupid!” – Roronoa Zoro
 
 ---
 
