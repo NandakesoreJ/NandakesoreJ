@@ -56,10 +56,7 @@
 
 ## 🔄 Random Quote of the Day
 
-> “If you don’t take risks, you can’t create a future.” — Monkey D. Luffy  
-> “What keeps me alive in this world is neither bodily organs nor muscles — it’s my soul.” – Brook  
-> “Fools who don’t respect the past are likely to repeat it.” – Nico Robin  
-> “Only I Can Call My Dream Stupid!” – Roronoa Zoro
+> 📜 <!-- random-quote -->
 
 ---
 
