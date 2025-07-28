@@ -49,7 +49,7 @@ print(“Only I Can Call My Dream Stupid!” – Roronoa Zoro)
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://novatorem-nandakesore.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xjz47me3acexsoaidc5agushkm&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954" alt="Spotify Now Playing" width="300"/>
 </p>
 
 ---
@@ -92,12 +92,6 @@ print(“Only I Can Call My Dream Stupid!” – Roronoa Zoro)
 ---
 
 ## ✏️ Bonus Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
-  <br><br>
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/>
-</p>
 
 <p align="center">
   <strong><em>"As long as I try there are infinite chances."</em></strong>
