@@ -2,13 +2,10 @@
 
 
 > <em><strong><span style="color:#ff6600; font-family:Georgia, serif;">"As long as I try there are infinite chances"</span></strong></em>
+> <em><strong><span style="color:#ff6600; font-family:Georgia, serif;">- Luffy</span></strong></em>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/luffy-one-piece.gif" width="300"/>
 </p>
 
 ---
