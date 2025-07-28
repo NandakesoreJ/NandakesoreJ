@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nandakesore 👋</h1>
 
 <p align="center">
-  <em><strong><span style="color:#ff6600; font-family:Courier New;">"As long as I try there are infinite chances"</span></strong></em>
+  <em><strong><span style="color:#f97316; font-family:'Courier New', Courier, monospace;">"As long as I try there are infinite chances"</span></strong></em>
 </p>
 
 <p align="center">
@@ -60,11 +60,18 @@
 
 ---
 
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Nandakesore_Jaisankar?theme=light&font=Source%20Code%20Pro&ext=contest" width="400"/>
+</p>
+
+---
+
 ## 🖼️ Fun Corner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/>
-  <br/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/><br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpiZTNkdmhqb2txenFpM29obGNqY3g0ZmFncHhzdHdwMWI1OGZpcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
 </p>
 
