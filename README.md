@@ -62,7 +62,10 @@
 
 <p>
   <img src="https://github-readme-hackerrank-stats.vercel.app/api/?username=nandakesorejais1" alt="HackerRank Stats">
+  <br/>
+  <img src="https://img.shields.io/badge/HackerRank%20Python-5%20Star%20Gold-F59E0B?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
+
 
 ---
 
