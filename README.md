@@ -46,19 +46,6 @@ print(“Only I Can Call My Dream Stupid!” – Roronoa Zoro)
 
 ---
 
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xjz47me3acexsoaidc5agushkm&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954" alt="Spotify Now Playing" width="300"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/nandakesore/nandakesore/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🤠 Platforms I'm Active On
 
