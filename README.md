@@ -54,6 +54,18 @@
 
 ---
 
+## 📊 Competitive Programming Stats
+
+<p>
+  <img src="https://leetcard.jacoblin.cool/Nandakesore_Jaisankar?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats">
+</p>
+
+<p>
+  <img src="https://github-readme-hackerrank-stats.vercel.app/api/?username=nandakesorejais1" alt="HackerRank Stats">
+</p>
+
+---
+
 ## 🔄 Random Quote of the Day
 
 <p align="center">
