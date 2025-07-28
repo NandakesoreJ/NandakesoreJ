@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nandakesore 👋</h1>
 
 <p align="center">
-  <em><strong><span style="color:#f97316; font-family:'Courier New', Courier, monospace;">"As long as I try there are infinite chances"</span></strong></em>
+  <em><span style="color:#f06292; font-family:'Courier New', monospace; font-size:20px;">"As long as I try there are infinite chances"</span></em>
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 Passionate learner & designer with a strong foundation in:
+I'm **Nandakesore J**, a curious and creative learner from the **Department of Artificial Intelligence & Machine Learning (AIML)**,  
+**Saveetha Engineering College**, Batch **2023–2027**.
 
-- 💻 **Programming:** C, Python, HTML, CSS  
-- 🛠️ **CAD Design:** Expert in **Fusion 360**, currently learning **Blender**  
-- ✏️ **Creative Skills:** Sketching enthusiast with an eye for detail  
+🔍 I'm passionate about blending **design thinking** with **code** to build smart and aesthetic solutions.  
+From **sketching concepts** to **designing in Fusion 360** to **coding in Python**, I love turning ideas into reality.
 
 ---
 
@@ -29,6 +29,20 @@
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fusion%20360-ff6e00?style=for-the-badge&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-f5792a?style=for-the-badge&logo=blender&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Coding Platforms
+
+<p align="left">
+  <a href="https://leetcode.com/u/Nandakesore_Jaisankar/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Nandakesore_Jaisankar?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://www.hackerrank.com/profile/nandakesorejais1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-5★%20Gold%20in%20Python-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -50,20 +64,6 @@
   <a href="mailto:nandakesorej@gmail.com">
     <img src="https://img.shields.io/badge/Email-nandakesorej@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Nandakesore_Jaisankar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/nandakesorejais1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nandakesore_Jaisankar?theme=light&font=Source%20Code%20Pro&ext=contest" width="400"/>
 </p>
 
 ---
@@ -71,8 +71,7 @@
 ## 🖼️ Fun Corner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/><br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpiZTNkdmhqb2txenFpM29obGNqY3g0ZmFncHhzdHdwMWI1OGZpcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/>
 </p>
 
 <p align="center"><em>Design. Code. Create. Repeat.</em></p>
