@@ -29,12 +29,14 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 ### Programming
 - C  
 - Python  
-- HTML  
-- CSS  
+- HTML(Basic) 
+- Java  
 
 ### Tools
-- Fusion 360 (5⭐ Gold Certified)
+- Fusion 360
 - Blender (learning)
+- Power BI(learning)
+- 
 - Git & GitHub
 
 ---
