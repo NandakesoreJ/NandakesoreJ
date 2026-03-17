@@ -1,95 +1,87 @@
----
-
-<h1 align="center">Hi, I'm Nandakesore 👋</h1>
+<h1 align="center">Hi, I'm Nandakesore J 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+AI & Machine Learning Student • Developer • CAD Designer
 </p>
 
 <p align="center">
-  <em><b style="color:#f39c12;font-family:monospace">“As long as I try there are infinite chances”</b></em>
+<em>"As long as I try, there are infinite chances."</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm **Nandakesore J**, currently pursuing **B.E. in Artificial Intelligence & Machine Learning** (2023–2027) at **Saveetha Engineering College**. Passionate about blending creativity and logic through code and design.
+I am currently pursuing a **B.E. in Artificial Intelligence & Machine Learning (2023–2027)** at **Saveetha Engineering College, Chennai**.
 
-- 💻 **Programming:** C, Python, HTML, CSS  
-- 🛠️ **CAD Design:** Fusion 360 (Gold ⭐ 5-Star), learning Blender  
-- ✏️ **Creative:** Sketch artist with love for digital transformation
+I enjoy combining **analytical thinking with creativity** through programming, design, and problem solving.
 
----
-
-## 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fusion%20360-ff6e00?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-f5792a?style=for-the-badge&logo=blender&logoColor=white"/>
-</p>
+- 🔭 Currently learning **Machine Learning and AI fundamentals**
+- 💡 Interested in **intelligent systems and real-world applications**
+- 🛠️ Experienced in **CAD design using Fusion 360**
+- ✏️ Passionate about **sketching and digital design**
+- 📈 Actively practicing **problem solving and competitive programming**
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Skills & Technologies
 
-<p>
-  <a href="https://www.linkedin.com/in/nandakesore-j-7b5317290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nandakesorej@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nandakesorej@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Nandakesore_Jaisankar/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/nandakesorejais1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
+### Programming
+- C  
+- Python  
+- HTML  
+- CSS  
+
+### Tools
+- Fusion 360 (5⭐ Gold Certified)
+- Blender (learning)
+- Git & GitHub
 
 ---
 
-## 📊 Competitive Programming Stats
+## 📊 Competitive Programming
 
 <p>
   <img src="https://leetcard.jacoblin.cool/Nandakesore_Jaisankar?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats">
 </p>
 
 <p>
-  <br/>
-  <img src="https://img.shields.io/badge/HackerRank%20Python-5%20Star%20Gold-F59E0B?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</p>
-
-
----
-
-## 🔄 Random Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote">
+  <img src="https://img.shields.io/badge/HackerRank-Python%205⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </p>
 
 ---
 
-## 🖼️ Fun Corner
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/>
-</p>
+<p>
+  <a href="https://www.linkedin.com/in/nandakesore-j-7b5317290">
+    <img src="https://img.shields.io/badge/LinkedIn-Nandakesore%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:nandakesorej@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nandakesorej@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<p align="center">
-  <em>Design. Code. Create. Repeat.</em>
+  <a href="https://leetcode.com/u/Nandakesore_Jaisankar/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/nandakesorejais1">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👁️ Visitor Badge
+## 🚀 Current Focus
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nandakesore&label=Profile+Views&color=blue&style=flat" alt="Profile Views"/>
+- Machine Learning
+- Data Structures & Algorithms
+- Building practical AI projects
+- Improving problem solving skills
+
+---
+
+<p align="center">
+Design • Code • Create • Improve
 </p>
