@@ -12,7 +12,7 @@ AI & Machine Learning Student • Developer • CAD Designer
 
 ## 👨‍💻 About Me
 
-I am currently pursuing a **B.E. in Artificial Intelligence & Machine Learning (2023–2027)** at **Saveetha Engineering College, Chennai**.
+I am currently pursuing a **B.tech in Artificial Intelligence & Machine Learning (2023–2027)** at **Saveetha Engineering College, Chennai**.
 
 I enjoy combining **analytical thinking with creativity** through programming, design, and problem solving.
 
