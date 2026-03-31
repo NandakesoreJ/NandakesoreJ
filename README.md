@@ -54,12 +54,12 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandakesore0210&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandakesore0210&theme=tokyonight"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
