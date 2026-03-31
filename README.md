@@ -54,6 +54,39 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 
 ---
 
+## 🚀 Featured Projects
+
+### ⚔️ Fusion 360 Katana Design
+
+* Designed a custom katana model from scratch using Fusion 360
+* Focused on precision, proportions, and aesthetic detailing
+* Demonstrates creativity + CAD fundamentals
+
+🔗 [View Project](https://github.com/NandakesoreJ/Fusion-360-Katana)
+
+---
+
+### 🤖 Industrial Robot Design
+
+* Designed a robotic arm model inspired by real-world industrial robots
+* Learned assembly, joints, and mechanical structure
+* Built using Fusion 360 with guided reference
+
+🔗 [View Project](https://github.com/NandakesoreJ/Industrial-Robot)
+
+---
+
+### 🛠️ Mini Project (Engineering Project)
+
+* Developed a practical mini project with real-world application
+* Focused on problem solving and implementation
+* Shows hands-on engineering skills
+
+🔗 [View Project](https://github.com/Nandakesore0210/Miniproject)
+
+
+---
+
 ## 📫 Connect With Me
 
 <p>
@@ -94,8 +127,6 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 <p align="center">
 Design • Code • Create • Improve
 </p>
-
----
 
 ---
 
