@@ -57,8 +57,8 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandakesoreJ&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandakesoreJ&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandakesore0210&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandakesore0210&theme=tokyonight"/>
 </p>
 
 ---
