@@ -54,6 +54,15 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandakesore-Jaisankar&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandakesore-Jaisankar&theme=tokyonight"/>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p>
