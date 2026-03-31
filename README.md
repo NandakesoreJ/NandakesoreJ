@@ -30,13 +30,14 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 - C  
 - Python  
 - HTML(Basic) 
-- Java  
+- Java
+- SQL(Basic)
 
 ### Tools
 - Fusion 360
 - Blender (learning)
 - Power BI(learning)
-- 
+- VS Code
 - Git & GitHub
 
 ---
