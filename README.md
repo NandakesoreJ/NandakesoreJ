@@ -54,10 +54,6 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 
 ---
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Connect With Me
 
 <p>
@@ -80,6 +76,12 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 
 ---
 
+## 📄 Resume
+
+[Download Resume](./Nandakesore_Resume.pdf)
+
+---
+
 ## 🚀 Current Focus
 
 - Machine Learning
@@ -92,3 +94,11 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 <p align="center">
 Design • Code • Create • Improve
 </p>
+
+---
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
