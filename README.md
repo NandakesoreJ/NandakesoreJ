@@ -54,12 +54,7 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 
 ---
 
-## 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
