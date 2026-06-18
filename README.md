@@ -76,6 +76,17 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 
 ---
 
+### 🚗 V6 Engine Design using Fusion 360
+
+* Designed and assembled a complete V6 Internal Combustion Engine using Autodesk Fusion 360
+* Created individual components including crankshaft, piston, camshaft, cylinder head, engine block, intake manifold, exhaust manifold, valves, springs, and oil pan
+* Applied parametric CAD modeling, mechanical assembly techniques, and engineering design principles
+* Developed a fully assembled engine model suitable for visualization, learning, and future 3D printing applications
+
+🔗 [View Project](https://github.com/NandakesoreJ/V6-Engine-Model)
+
+---
+
 ### 🛠️ Mini Project (Engineering Project)
 
 * Developed a practical mini project with real-world application
